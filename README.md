@@ -1,2 +1,1 @@
-
-Responsive Navigation Menu - Internship Task 1
+Responsive Navigation Menu
